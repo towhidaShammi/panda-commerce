@@ -1,0 +1,14 @@
+.panda-background{
+background-color: #fceae8;
+}
+.img-width img{
+    width: 100px;
+}
+.button{
+    background-color: #ff408b;
+    color: white;
+    padding: 9px 25px;
+    border-radius: 8px;
+    border: none;
+    
+}
